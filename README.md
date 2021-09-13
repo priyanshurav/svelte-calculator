@@ -2,7 +2,7 @@ _Looking for a shareable component template? Go here --> [sveltejs/component-tem
 
 ---
 
-# svelte app
+# svelte-calculator
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
